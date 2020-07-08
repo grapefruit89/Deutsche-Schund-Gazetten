@@ -11,7 +11,7 @@ Inkludierte Githublisten
 [Anti Bertelsmann hosts file](https://github.com/autinerd/anti-bertelsmann-hosts) by [autinerd](https://github.com/autinerd)  
 [AxelSpringerDomains](https://github.com/DrRetro/AxelSpringerDomains) by [DrRetro](https://github.com/DrRetro)   
  
-[Hetzblocker Browser Extension](https://github.com/marklindhout/hetzblocker) by [https://github.com/marklindhout](https://github.com/marklindhout)        *Stumpfe Hezereien verursachen ggf. overblocking also nicht so Pi-Kompatibel zum Whitelisten  
+[Hetzblocker Browser Extension](https://github.com/marklindhout/hetzblocker) by [marklindhout](https://github.com/marklindhout)        *Stumpfe Hezereien verursachen ggf. overblocking also nicht so Pi-Kompatibel zum Whitelisten  
 
 selbsterstellte Bauer liste  
 auf Grundlage von: https://de.wikipedia.org/wiki/Bauer_Media_Group#Publikationen  
