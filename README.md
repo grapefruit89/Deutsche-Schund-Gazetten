@@ -9,8 +9,7 @@ Eingeflossene Githublisten  (ich weiß leider nicht in welcher Form ich die Besi
 [Axel Springer Blocker (ABS)](https://github.com/revengeday/axelspringerblocker) by [revengeday](https://github.com/revengeday)  
 [Anti-Axel-Springer-Hostsdatei](https://github.com/autinerd/anti-axelspringer-hosts) by [autinerd](https://github.com/autinerd)   
 [Anti Bertelsmann hosts file](https://github.com/autinerd/anti-bertelsmann-hosts) by [autinerd](https://github.com/autinerd)  
-[AxelSpringerDomains](https://github.com/DrRetro/AxelSpringerDomains) by [DrRetro](https://github.com/DrRetro)   
- 
+[AxelSpringerDomains](https://github.com/DrRetro/AxelSpringerDomains) by [DrRetro](https://github.com/DrRetro)    
 [Hetzblocker Browser Extension](https://github.com/marklindhout/hetzblocker) by [marklindhout](https://github.com/marklindhout)        *Stumpfe Hezereien verursachen ggf. overblocking also nicht so Pi-Kompatibel zum Whitelisten  
 
 **selbsterstellte Bauer liste**  
