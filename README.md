@@ -5,12 +5,12 @@ Aufgrund der ausufernden Menge deutscher Medienerzeugnissen die *meiner meinung*
 ### RAW Text Blocklist only, kein 0.0.0.0,  127.0.0.1 oder sonstwas 
 
 Inkludierte Githublisten  
-https://github.com/TobsA13/ASB  
-https://github.com/revengeday/axelspringerblocker  
-https://github.com/autinerd/anti-axelspringer-hosts  
-https://github.com/DrRetro/AxelSpringerDomains  
-https://github.com/autinerd/anti-bertelsmann-hosts/blob/master/bertelsmann-hosts  
-https://github.com/marklindhout/hetzblocker   *Stumpfe Hezereien verursachen ggf. overblocking also nicht so Pi-Kompatibel zum Whitelisten  
+(Axel Springer Filter List)[https://github.com/TobsA13/ASB]  
+(Axel Springer Blocker (ABS))[https://github.com/revengeday/axelspringerblocker]
+(Anti-Axel-Springer-Hostsdatei)[https://github.com/autinerd/anti-axelspringer-hosts]
+(AxelSpringerDomains)[https://github.com/DrRetro/AxelSpringerDomains]
+(Anti Bertelsmann hosts file)[https://github.com/autinerd/anti-bertelsmann-hosts]
+(Hetzblocker Browser Extension)[https://github.com/marklindhout/hetzblocker]  *Stumpfe Hezereien verursachen ggf. overblocking also nicht so Pi-Kompatibel zum Whitelisten  
 
 selbsterstellte Bauer liste  
 auf Grundlage von: https://de.wikipedia.org/wiki/Bauer_Media_Group#Publikationen  
