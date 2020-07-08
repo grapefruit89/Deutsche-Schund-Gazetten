@@ -12,5 +12,8 @@ https://github.com/autinerd/anti-bertelsmann-hosts/blob/master/bertelsmann-hosts
 https://github.com/marklindhout/hetzblocker   *Stumpfe Hezereien verursachen ggf. overblocking also nicht so Pi-Kompatibel zum Whitelisten  
 
 selbsterstellte Bauer liste https://de.wikipedia.org/wiki/Bauer_Media_Group#Publikationen  
-
+Zusätzlich eine geshortete Liste für das Google Hit Hider Greasmonkey Script  
+https://greasyfork.org/de/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites  
+damit auch ja keiner auf die Idee kommt klicks zu generieren ;)    
+  
 Alle Listen zusammengetragen und mit Notepad++ ein bisschen RegEx und https://de.rakko.tools/tools/62/ sortiert und aufgeräumt  
