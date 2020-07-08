@@ -12,7 +12,7 @@ Eingeflossene Githublisten  (ich weiß leider nicht in welcher Form ich die Besi
 [AxelSpringerDomains](https://github.com/DrRetro/AxelSpringerDomains) by [DrRetro](https://github.com/DrRetro)    
 [Hetzblocker Browser Extension](https://github.com/marklindhout/hetzblocker) by [marklindhout](https://github.com/marklindhout) * verursachen ggf. overblocking also eher für UBlock  
 [Pi-Hole-Lists/fakenewsde.txt](https://github.com/Akamaru/Pi-Hole-Lists/blob/master/fakenewsde.txt) by [Akamaru](https://github.com/Akamaru/Pi-Hole-Lists) hat leider aufgehört weil ein paar weichbirnen mimimi wegen afd auf der Blocklist gemacht haben... <sup>wusste garnicht, dass die sowas können</sup>  
-**selbsterstellte Bauer liste**  
+# Selbst erstellte Bauer liste 
 auf Grundlage von: [Bauer Media Group@Wikipedia](https://de.wikipedia.org/wiki/Bauer_Media_Group#Publikationen  )  
 [Bauer Media Group.txt](https://github.com/grapefruit89/Deutsche-Schund-Gazetten/blob/master/Bauer%20Media%20Group.txt  )
 
