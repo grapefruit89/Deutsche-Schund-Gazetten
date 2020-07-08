@@ -4,7 +4,7 @@ Aufgrund der ausufernden Menge deutscher Medienerzeugnissen die *meiner meinung*
 
 ### RAW Text Blocklist only, kein 0.0.0.0,  127.0.0.1 oder sonstwas 
 
-Eingeflossene Githublisten  (ich weiß leider nicht in welcher Form ich die Besitzer benachrichtigen soll... vlt. hilft mir ja jemand aber bitte nicht böse sein)
+Eingeflossene Githublisten  (ich weiß leider nicht in welcher Form ich die Besitzer benachrichtigen soll... vlt. hilft mir ja jemand aber bitte nicht böse sein)  
 [Axel Springer Filter List](https://github.com/TobsA13/ASB) by [TobsA13](https://github.com/TobsA13)  
 [Axel Springer Blocker (ABS)](https://github.com/revengeday/axelspringerblocker) by [revengeday](https://github.com/revengeday)  
 [Anti-Axel-Springer-Hostsdatei](https://github.com/autinerd/anti-axelspringer-hosts) by [autinerd](https://github.com/autinerd)   
