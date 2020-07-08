@@ -13,9 +13,9 @@ Inkludierte Githublisten
  
 [Hetzblocker Browser Extension](https://github.com/marklindhout/hetzblocker) by [marklindhout](https://github.com/marklindhout)        *Stumpfe Hezereien verursachen ggf. overblocking also nicht so Pi-Kompatibel zum Whitelisten  
 
-selbsterstellte Bauer liste  
-auf Grundlage von: https://de.wikipedia.org/wiki/Bauer_Media_Group#Publikationen  
-https://github.com/grapefruit89/Deutsche-Schund-Gazetten/blob/master/Bauer%20Media%20Group.txt  
+**selbsterstellte Bauer liste**  
+auf Grundlage von: [Bauer Media Group@Wikipedia](https://de.wikipedia.org/wiki/Bauer_Media_Group#Publikationen  )
+[Bauer Media Group.txt](https://github.com/grapefruit89/Deutsche-Schund-Gazetten/blob/master/Bauer%20Media%20Group.txt  )
 
 Zusätzlich eine (**geshortete Liste**)[https://github.com/grapefruit89/Deutsche-Schund-Gazetten/blob/master/Schundgazetten%20Hit%20Hider.txt] für das (**Google Hit Hider**)[https://greasyfork.org/de/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites ] Greasmonkey Script  
  
