@@ -1,4 +1,4 @@
-# Title:Deutsche Hetzmedien 
+# Title:Deutsche Schundgazetten
 # Version: 08.07.2020
 # Description: Zusammentrag aus Github Quellen
 # Anti Hetzmedien Liste  Axel Springer, Bertelsmann, Stumpfe Hezereien ggf. overblocking, selbsterstellte Bauer liste
@@ -7,14 +7,13 @@
 # https://github.com/autinerd/anti-axelspringer-hosts
 # https://github.com/DrRetro/AxelSpringerDomains
 # https://github.com/autinerd/anti-bertelsmann-hosts/blob/master/bertelsmann-hosts
-# https://github.com/marklindhout/hetzblocker   *Stumpfe Hezereien ggf. overblocking 
-#                              https://github.com/marklindhout/hetzblocker/blob/master/src/js/common/domainlist.js   
-#
+#  https://github.com/marklindhout/hetzblocker/blob/master/src/js/common/domainlist.js  *Stumpfe Hezereien ggf. overblocking 
+#                               
+#https://github.com/Akamaru/Pi-Hole-Lists/blob/master/fakenewsde.txt
 #selbsterstellte Bauer liste https://de.wikipedia.org/wiki/Bauer_Media_Group#Publikationen   
 # 
 #
 # Alle Listen zusammengetragen und mit Notepad++ ein bisschen RegEx und https://de.rakko.tools/tools/62/ sortiert und aufgeräumt
-
 00.zimbio.com
 01.zimbio.com
 016.axelspringer.pl
@@ -25,6 +24,7 @@
 115bot.hamburg.de
 11freunde.de
 11x-ray.blog.onet.pl
+19vierundachtzig.com
 20-stka.blog.onet.pl
 2oficer.blog.onet.pl
 4x4.auto-swiat.pl
@@ -112,6 +112,7 @@ ads.yad2.co.il
 adserver.onet.pl
 adzeile.ladenzeile.de
 aerokurier.de
+afd.de
 afedorowicz.blog.onet.pl
 afm.hamburg.de
 afm.serviceportal.stage.hamburg.de
@@ -313,6 +314,7 @@ assistancelouervite.seloger.com
 aston-martin.auto.cz
 astral-projection.blog.onet.pl
 asv.de
+asylterror.com
 atreseries.atresmedia.com
 atresmedia.com
 atresmediacorporacion.com
@@ -392,6 +394,7 @@ azielke.blog.onet.pl
 azraelkubacki.blog.onet.pl
 b.ns.cm.carwale.com
 b.yad2.co.il
+babykaust.de
 backup-vm.ffh.de
 backup.ext-rz.hamburg.de
 backup.intern.antenne.de
@@ -546,6 +549,7 @@ blog.autoplus.fr
 blog.blikk.hu
 blog.buecher.de
 blog.dnn-online.de
+blog.halle-leaks.de
 blog.hamburg.de
 blog.idealo.de
 blog.immowelt.de
@@ -589,6 +593,7 @@ brasiliana-paznokcie.blog.onet.pl
 brat.komputerswiat.pl
 bratseth.transfermarkt.de
 bravo.de
+brd-schwindel.org
 breitbart.com
 brigitte.de
 brillen.ladenzeile.de
@@ -804,6 +809,7 @@ content.ikiosk.de
 content.immowelt.de
 contentheader-staging.reise.s.idealo.de
 contentheader.reise.s.idealo.de
+contra-magazin.com
 contracttool.axelspringer.de
 cookies.auto-swiat.pl
 cookies.fakt.pl
@@ -827,6 +833,7 @@ cpanel.autoundwirtschaft.at
 creacultura.atresmedia.com
 createyourowncareer.com
 createyourowncareer.de
+crimekalender.wordpress.com
 crl1.axelspringer.de
 crl2.axelspringer.de
 crm-bo.axelspringer.pl
@@ -903,6 +910,8 @@ dbfullpower.blog.onet.pl
 ddns0.ge3.adm.onet.pl
 ddns1.onet.pl
 ddns2.onet.pl
+de.news-front.info
+de.sputniknews.com
 deals.de
 deals.meinestadt.de
 deathshadow.blog.onet.pl
@@ -914,6 +923,7 @@ delmagyar.profession.hu
 deluna-zone.blog.onet.pl
 demalogic.blog.onet.pl
 demo.m.itool.immowelt.de
+denken-macht-frei.info
 denkmalschutzamt.hamburg.de
 dentystawpolsce.blog.onet.pl
 derbestemix.be
@@ -921,6 +931,8 @@ derwesten.de
 destination-detail.reise.s.idealo.de
 details-staging.reise.s.idealo.de
 details.reise.s.idealo.de
+deutsch.rt.com
+deutsche-stimme.de
 deutsche-welle.blog.onet.pl
 deutsche-wirtschafts-nachrichten.de
 deutschelobby.com
@@ -954,6 +966,7 @@ diaporama.preprod.autojournal.fr
 diaporama.preprod.autoplus.fr
 diaporama.preprod.sportauto.fr
 diaryusz.blog.onet.pl
+diepresse.com
 diety.onet.pl
 digas.axelspringer.de
 dioprodextern.axelspringer.de
@@ -1023,6 +1036,7 @@ donna-jasnowidz.blog.onet.pl
 donnerunddoria.welt.de
 doradcypodatkowi.blog.onet.pl
 dorotea14-nails.blog.onet.pl
+dortmundecho.org
 dotomka.blog.onet.pl
 download.komputerswiat.pl
 downloads.buecher.de
@@ -1104,6 +1118,7 @@ einkaufen.axelspringer.de
 einverstaendnis.autobild.de
 einverstaendnis.axelspringer.de
 einverstaendnis.computerbild.de
+einwanderungskritik.de
 eksperyment-przemijania.blog.onet.pl
 el-shop.bams.de
 el-shop.wams.de
@@ -1315,6 +1330,7 @@ frauenzimmer.de
 freeway.blog.onet.pl
 freie.welt.de
 freiewelt.net
+freiezeiten.net
 friedrich.transfermarkt.de
 frol-do-r3.axelspringer.pl
 frontend-1.hamburg.de
@@ -1449,6 +1465,7 @@ glb2.m10r2.onet.pl
 glb3.m10r2.onet.pl
 global-bloggers.blog.onet.pl
 globalprotect.ffh.de
+gloria.tv
 gmc.auto.cz
 gmgkjhq.onet.pl
 gmini.mgt.n24.de
@@ -1517,6 +1534,7 @@ haniaholek.blog.onet.pl
 hannoverscher-bahnhof.hamburg.de
 hanses.transfermarkt.de
 harley-davidson.auto.cz
+hartgeld.com
 harttgen.transfermarkt.de
 haute-couture.blog.onet.pl
 hayden-p-web.blog.onet.pl
@@ -1535,6 +1553,7 @@ heilwig.hamburg.de
 hellocton.fr
 hermann.transfermarkt.de
 herzog.transfermarkt.de
+heutigen-nachrichten.de
 hgckontakt.hamburg.de
 hgv.hamburg.de
 hibb.hamburg.de
@@ -1647,6 +1666,7 @@ immoweb.be
 immowelt.de
 impa1.onet.pl
 impa2.onet.pl
+impfen-nein-danke.de
 index01.belvilla.com
 indiaweek.hamburg.de
 inf-ssl-ext.runtastic.com
@@ -1682,6 +1702,7 @@ iphones.yad2.co.il
 ipl.lu
 ipp-netzwerk.hamburg.de
 irolka.blog.onet.pl
+islamspiegel-hamburg.de
 isms.ext-rz.hamburg.de
 isuzu.auto.cz
 it.profession.hu
@@ -1894,6 +1915,8 @@ kujawsko-pomorskie.onet.pl
 kultura.newsweek.pl
 kultura.onet.pl
 kulturbehoerde.hamburg.de
+kulturstudio.info
+kulturstudio.wordpress.com
 kundenservice.beobachter.ch
 kundenservice.handelszeitung.ch
 kundenservice.tele.ch
@@ -1970,6 +1993,7 @@ lindsaylohan-fan.blog.onet.pl
 liniazycia.blog.onet.pl
 link.hamburg.de
 linka-dziennikpokladowy.blog.onet.pl
+linksfaschisten.blogspot.com
 listener.co.nz
 listy-o-milosci-ps.blog.onet.pl
 listy-o-milosci.blog.onet.pl
@@ -2693,6 +2717,7 @@ new.sports.pl
 new.unternehmensgruppe.web.antenne.de
 newadmin.yad2.co.il
 newcar.yad2.co.il
+news-front.info
 news.auto.cz
 news.autoplus.fr
 news.axelspringer.pl
@@ -2761,6 +2786,7 @@ norddeutscher-wissenschaftspreis.hamburg.de
 nova.atresmedia.com
 nowa-wiedza.blog.onet.pl
 nowagazetaliteracka.blog.onet.pl
+npd-mv.de
 nrw.immowelt.de
 nrwow.radionrw.de
 nrz.immowelt.de
@@ -3007,6 +3033,8 @@ pokazbilet.blog.onet.pl
 pokec-sklo.azet.sk
 pokec.azet.sk
 politico.eu
+politikstube.com
+politikversagen.net
 polityka-okiem-laika.blog.onet.pl
 polska-peerelu.blog.onet.pl
 polska.newsweek.pl
@@ -3060,6 +3088,7 @@ pres1.m7r2.onet.pl
 pres2.onet.pl
 press.totaljobs.com
 presse.immowelt.de
+pressefreiheit24.wordpress.com
 prestige.seloger.com
 preview-content.immowelt.de
 preview-flug.idealo.de
@@ -3398,6 +3427,7 @@ scania.auto.cz
 scenariusze.blog.onet.pl
 scheduler-staging.reise.s.idealo.de
 scheduler.reise.s.idealo.de
+schluesselkindblog.com
 schmuck.ladenzeile.de
 schoener-wohnen.de
 schoki.transfermarkt.de
@@ -3994,6 +4024,7 @@ trompkajaijazz.blog.onet.pl
 truchanowicz.blog.onet.pl
 trucks-service.meinestadt.de
 truly-charmed.blog.onet.pl
+truth24.net
 trzyzolwie.blog.onet.pl
 tsm42.usr.onet.pl
 tswp.blog.onet.pl
@@ -4291,6 +4322,7 @@ wein.ladenzeile.de
 welcome-center.hamburg.de
 welcome.hamburg.de
 welt-epaper.welt.de
+welt-im-wandel.tv
 welt-kompakt.de
 welt.buecher.de
 welt.de
@@ -4308,6 +4340,7 @@ wetter.de
 wg-filter-1.pdmz.onet.pl
 wg-filter-2.pdmz.onet.pl
 wg-filter-dev.pdmz.onet.pl
+wgvdl.com
 wiadomosci.onet.pl
 wideo.newsweek.pl
 widget.slack-live.bild.de
