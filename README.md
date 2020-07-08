@@ -3,7 +3,7 @@ Aufgrund der ausufernden Menge deutscher Medienerzeugnissen die *meiner meinung*
 
 ### RAW Text Blocklist only, kein 0.0.0.0,  127.0.0.1 oder sonstwas 
 
-Inkludierte Githublisten 
+Inkludierte Githublisten  
 https://github.com/TobsA13/ASB  
 https://github.com/revengeday/axelspringerblocker  
 https://github.com/autinerd/anti-axelspringer-hosts  
