@@ -5,6 +5,8 @@ Aufgrund der ausufernden Menge deutscher Medienerzeugnissen die *meiner meinung*
 # noch mehr Filterlisten
 ・[The Firebog](https://firebog.net/)  
 ・[FilterLists](https://filterlists.com/)
+・[Blockfunktion Testen](https://ads-blocker.com/testing/)  
+
 
 
 ### RAW Text Blocklist only, kein 0.0.0.0,  127.0.0.1 oder sonstwas 
