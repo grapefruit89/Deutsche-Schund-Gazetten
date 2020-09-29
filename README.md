@@ -3,7 +3,7 @@ Aufgrund der ausufernden Menge deutscher Medienerzeugnissen die *meiner meinung*
 [Deutsche-Schund-Gazetten](https://github.com/grapefruit89/Deutsche-Schund-Gazetten/blob/master/Deutsche-Schund-Gazetten.txt)
 
 # noch mehr Filterlisten
-・[The Firebog](https://firebog.net/)
+・[The Firebog](https://firebog.net/)  
 ・[FilterLists](https://filterlists.com/)
 
 
