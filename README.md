@@ -2,6 +2,11 @@
 Aufgrund der ausufernden Menge deutscher Medienerzeugnissen die *meiner meinung* nach nicht so lesenswert sind  
 [Deutsche-Schund-Gazetten](https://github.com/grapefruit89/Deutsche-Schund-Gazetten/blob/master/Deutsche-Schund-Gazetten.txt)
 
+# noch mehr Filterlisten
+・[The Firebog](https://firebog.net/)
+・[FilterLists](https://filterlists.com/)
+
+
 ### RAW Text Blocklist only, kein 0.0.0.0,  127.0.0.1 oder sonstwas 
 
 Eingeflossene Githublisten  (ich weiß leider nicht in welcher Form ich die Besitzer benachrichtigen soll... vlt. hilft mir ja jemand aber bitte nicht böse sein)  
